@@ -1,4 +1,4 @@
-glet string = prompt('String typedagi malumotni kriting')
+let string = prompt('String typedagi malumotni kriting')
 let number = prompt('Number typedagi malumotni kriting')
 let boolean = prompt('Boolean typedagi malumotni kriting')
 alert('Hamma malumotlarni togri kiritkaningizga ishonchingiz komilmi?')
